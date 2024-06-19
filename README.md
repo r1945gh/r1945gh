@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning ... SAS OnDemand for Academics (SODA); VS Code's app extension for SAS.
 - 💞️ I’m looking to collaborate on ... (US Census) block-based inclusion algorithm (BBIA), to be able to calculat 1- 3- and 5-mi radius population and median household income data.
 - 📫 How to reach me ... msg me.
-
+- 📖 Currently taking ... 100 Days of Code on Udemy.
+- 🎓 Currently watching ... CS50 on YT.
 <!---
 r1945gh/r1945gh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
